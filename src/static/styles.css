@@ -169,6 +169,21 @@ footer {
   border-top: 1px solid #f0f0f0;
 }
 
+.delete-btn {
+  margin-left: auto;
+  background: transparent;
+  border: none;
+  color: #c62828;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.delete-btn:hover {
+  background-color: rgba(198,40,40,0.08);
+}
+
 .avatar {
   width: 36px;
   height: 36px;
